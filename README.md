@@ -4,8 +4,6 @@
 
 i) Inorder traversal without recursion
 
-// C++ program to print inorder traversal 
-// using stack. 
 #include<bits/stdc++.h> 
 using namespace std; 
 
