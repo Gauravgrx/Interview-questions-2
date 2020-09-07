@@ -1206,6 +1206,11 @@ int main()
 } 
 
 
+xiv)  Check if binary tree is mirror of itself or not
+
+    Same as xii) i.e symmetric binary tree
+
+
 
  
 
